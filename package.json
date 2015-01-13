@@ -1,0 +1,21 @@
+{
+  "name": "suzie-job-search",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2xls": "0.0.5",
+    "async": "^0.9.0",
+    "request": "^2.51.0",
+    "cheerio": "^0.18.0",
+    "xml2js": "^0.4.4",
+    "html-to-text": "^1.1.1",
+    "sanitize-html": "^1.5.1",
+    "excel4node": "^0.1.7"
+  }
+}
